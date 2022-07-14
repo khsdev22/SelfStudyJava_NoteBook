@@ -3,4 +3,8 @@
     <fullyQualifiedTypeName name="sec04.exam06.Calculator"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="sec01.exam02.RemoteControl"/>
+    <fullyQualifiedTypeName name="sec01.exam04.Television"/>
+    <fullyQualifiedTypeName name="sec01.exam03.RemoteControl"/>
+    <fullyQualifiedTypeName name="sec01.exam01.RemoteControl"/>
 </qualifiedTypeNameHistroy>
