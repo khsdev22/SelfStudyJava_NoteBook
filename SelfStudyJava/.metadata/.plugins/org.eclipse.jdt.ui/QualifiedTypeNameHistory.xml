@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="sec01.exam05.Searchable"/>
+    <fullyQualifiedTypeName name="sec01.exam01.RemoteControl"/>
+    <fullyQualifiedTypeName name="sec01.exam03.RemoteControl"/>
+</qualifiedTypeNameHistroy>
