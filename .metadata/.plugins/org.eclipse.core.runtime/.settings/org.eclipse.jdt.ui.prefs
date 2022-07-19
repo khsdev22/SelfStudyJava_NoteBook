@@ -1,4 +1,4 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="sec04.exam06.Calculator"><rhs name\="sec04.exam06.Calculator"/></lhs><lhs name\="sec02.exam01.Tire"><rhs name\="sec02.exam01.HankookTire"/><rhs name\="sec02.exam01.KumhoTire"/></lhs></history>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="sec04.exam06.Calculator"><rhs name\="sec04.exam06.Calculator"/></lhs><lhs name\="sec02.exam01.Tire"><rhs name\="sec02.exam01.HankookTire"/><rhs name\="sec02.exam01.KumhoTire"/></lhs><lhs name\="ch09.sec01.exam01.A$C"><rhs name\="ch09.sec01.exam01.A$C"/></lhs></history>
 content_assist_number_of_computers=17
 eclipse.preferences.version=1
 org.eclipse.jdt.internal.ui.navigator.layout=2
