@@ -7,12 +7,17 @@
     <fullyQualifiedTypeName name="sec01.exam005.Searchable"/>
     <fullyQualifiedTypeName name="sec01.exam03.RemoteControl"/>
     <fullyQualifiedTypeName name="sec01.exam06.MyClass"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="sec02.exam01.Tire"/>
     <fullyQualifiedTypeName name="sec02.exam01.HankookTire"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="sec02.exam01.KumhoTire"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="ch09.sec01.exam01.A.B"/>
     <fullyQualifiedTypeName name="ch09.sec01.exam01.A.C"/>
+    <fullyQualifiedTypeName name="ch09.sec01.exam06.Button"/>
+    <fullyQualifiedTypeName name="javax.swing.ButtonModel"/>
+    <fullyQualifiedTypeName name="ch09.sec01.exam06.Button.OnClickListener"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ch09.sec01.exam06.CallListener"/>
+    <fullyQualifiedTypeName name="ch09.sec01.exam06.MessageListener"/>
 </qualifiedTypeNameHistroy>
